@@ -1,0 +1,11 @@
+; $Id: site_faq.info,v 1.0 2009/07/14 17:32:14 webguy Exp $
+name = Site FAQ
+description = Help Files for the Site.
+core = 6.x
+dependencies[] = advanced_help
+; Information added by drupal.org packaging script on 2008-10-17
+version = "6.x-1.1"
+core = "6.x"
+project = "advanced_help"
+datestamp = "1224280802"
+
