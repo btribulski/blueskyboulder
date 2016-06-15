@@ -1,7 +1,0 @@
-[25-Oct-2011 21:06:02] PHP Fatal error:  Call to undefined function mb_detect_encoding() in /home/crispo/public_html/sites/all/modules/mimemail/modules/mimemail_compress/mimemail_compress.inc on line 64
-[11-Aug-2015 02:38:14 UTC] PHP Warning:  Lost connection to MySQL server during query
-query: SELECT data, created, headers, expire, serialized FROM cache_page WHERE cid = &#039;http://blueskyboulder.com/services/window-well-cleaning&#039; in /home/crispo/public_html/includes/database.mysql.inc on line 135
-[11-Aug-2015 02:38:23 UTC] PHP Warning:  MySQL server has gone away
-query: SELECT name, filename, throttle FROM system WHERE type = &#039;module&#039; AND status = 1 AND bootstrap = 1 ORDER BY weight ASC, filename ASC in /home/crispo/public_html/includes/database.mysql.inc on line 135
-[11-Aug-2015 02:38:23 UTC] PHP Warning:  MySQL server has gone away
-query: SELECT COUNT(pid) FROM url_alias in /home/crispo/public_html/includes/database.mysql.inc on line 135
